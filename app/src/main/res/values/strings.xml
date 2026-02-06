@@ -1,1 +1,3 @@
-// hi
+<resources>
+    <string name="app_name">EveryBirr</string>
+</resources>
